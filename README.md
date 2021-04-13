@@ -6,7 +6,7 @@ This project was completed by following a tutorial on youtube by gamesplusjames.
 Assets came from https://www.kenney.nl/assets/platformer-pack-redux. A greatwebsite with lots of free to use assets!
 
 This project is an endless runner game in which the user attempts to run and jump along a never ending chain of platforms.
-In order for this to function it is capable of generating an infite number of platforms, coins, and spikes. There is a 
+In order for this to function it is capable of generating an infinite number of platforms, coins, and spikes. There is a 
 small number of recycled objects which are used in order to prevent wasted memory and processing power. The goal of this
 game is simply to run and survive as long as possible. Your highscore is saved even if you exit the game, so you can will
 never lose track of your progress. I highly recomend taking the time to follow James' tutorial; I learned an incredible
